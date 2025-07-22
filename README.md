@@ -2,13 +2,6 @@
 # Dijkstra's Algorithm Simulation with OpenGL
 
 A C++ and OpenGL application that provides a real-time, interactive visualization of Dijkstra's shortest path algorithm.
-
-![Dijkstra Simulation](https://github.com/Muhammad-Magdi/Dijkstra-Simulation-OpenGL/blob/master/dijkstra1.png)
-_The algorithm exploring the graph step-by-step._
-
-![Finding the Path](https://github.com/Muhammad-Magdi/Dijkstra-Simulation-OpenGL/blob/master/run.png)
-_Animating the final shortest path to a destination._
-
 ## Key Features
 
 * **Step-by-Step Algorithm Visualization**: Watch Dijkstra's algorithm execute in real-time as it explores the graph to find the shortest paths from a source node.
